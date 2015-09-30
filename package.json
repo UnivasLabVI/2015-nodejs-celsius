@@ -1,0 +1,19 @@
+{
+  "name": "2015-nodejs-celsius",
+  "version": "1.0.0",
+  "description": "NodeJs Celsius",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/UnivasLabVI/2015-nodejs-celsius.git"
+  },
+  "author": "Alfredo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/UnivasLabVI/2015-nodejs-celsius/issues"
+  },
+  "homepage": "https://github.com/UnivasLabVI/2015-nodejs-celsius"
+}
