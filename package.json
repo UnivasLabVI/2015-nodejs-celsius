@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/UnivasLabVI/2015-nodejs-celsius/issues"
   },
-  "homepage": "https://github.com/UnivasLabVI/2015-nodejs-celsius"
+  "homepage": "https://github.com/UnivasLabVI/2015-nodejs-celsius",
+  "dependencies": {
+    "express": "^4.13.3"
+  }
 }
